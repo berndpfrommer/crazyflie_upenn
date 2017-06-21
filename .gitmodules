@@ -1,0 +1,6 @@
+[submodule "motion_capture_system"]
+	path = motion_capture_system
+	url = https://github.com/KumarRobotics/motion_capture_system.git
+[submodule "crazyflie_ros"]
+	path = crazyflie_ros
+	url = https://github.com/whoenig/crazyflie_ros.git
