@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>crazyflie_launch</name>
+  <version>0.0.1</version>
+  <description>Launch files for crazyflie experiments</description>
+
+  <maintainer email="bernd.pfrommer@gmail.com">Bernd Pfrommer</maintainer>
+
+  <license>TODO</license>
+
+  <author email="bernd.pfrommer@gmail.com">Bernd Pfrommer</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

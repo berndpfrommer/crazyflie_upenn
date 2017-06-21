@@ -1,0 +1,9 @@
+<launch>
+  <arg name="model" default=""/>
+  <arg name="uri" default=""/>
+  <include file="$(find crazyflie_driver)/launch/crazyflie_add.launch">
+    <arg name="tf_prefix" value="$(arg model)"/>
+    <arg name="uri" value="$(arg uri)"/>
+    <arg name="enable_logging" value="True" />
+  </include>
+</launch>
