@@ -4,3 +4,6 @@
 [submodule "crazyflie_ros"]
 	path = crazyflie_ros
 	url = https://github.com/whoenig/crazyflie_ros.git
+[submodule "hector_quadrotor"]
+	path = hector_quadrotor
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor
